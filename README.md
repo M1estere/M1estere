@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @M1estere
+- 👋 Hi, I’m Ilya
 - 👀 I’m interested in devveloping games using Unity Engine
 - 🌱 I’m currently learning Unity and its default programming language - C#
 
