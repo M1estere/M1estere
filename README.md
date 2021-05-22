@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ilya
-- 👀 I’m interested in devveloping games using Unity Engine
+- 👀 I’m interested in developing games using Unity Engine
 - 🌱 I’m currently learning Unity and its default programming language - C#
 
 <!---
