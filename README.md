@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ilya, 18 y.o.
+- 👋 Hi, I’m Ilya, 19 y.o.
 - 💻 I’m interested in programming and in developing games using Unity Engine
 - 🤖 At this moment I also learn to make android apps with Android Studio
 - 👾 I’m currently learning Unity and its default programming language - C#
