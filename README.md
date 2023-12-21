@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Ilya, 20 y.o.
-- 💻 I’m interested in programming and in developing games using Unity Engine
-- 🤖 At this moment I also learn to make android apps with Android Studio
-- 👾 I’m currently learning Unity and its default programming language - C#
-- 🎵 Also, I like making music and doing trailers for my games
+- 💻 I’m interested in programming, developing mobile apps (Android Studio, Flutter, MAUI) and games (Unity Engine)
+- 👾 I’m currently learning C#, Dart, Python along with the Unity Engine
 
 You can see my main and biggest projects here: https://m1estere.itch.io
 
