@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Ilya, 20 y.o.
-- 💻 I’m interested in programming, developing mobile apps (Android Studio, Flutter, MAUI) and games (Unity Engine)
-- 👾 I’m currently learning C#, Dart, Python along with the Unity Engine
+- 💻 I’m interested in programming using C#, Dart, Python
+- 📱 Also try developing mobile apps with Android Studio, Flutter and MAUI
+- 🕹 And I'm also interested in developing games using Unity Engine
 
-You can see my main and biggest projects here: https://m1estere.itch.io
+You can see my main gamedev projects here: https://m1estere.itch.io
 
 You can also look at our team's projects here: https://thunder-fox-studios.itch.io/
 
