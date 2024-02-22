@@ -6,8 +6,10 @@
 - 🕹 I also develop computer games. Take a look here: &nbsp; <a href="https://m1estere.itch.io/">![My Itch](https://img.shields.io/badge/Solo%20Games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)</a> <a href="https://thunder-fox-studios.itch.io/">![TFS Itch](https://img.shields.io/badge/TFS%20Games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)</a>
 - 💬 How to reach me: <a href="mailto:7156643@gmail.com">7156643@gmail.com</a>
 
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M1estere&layout=compact&hide=ShaderLab,HLSL&theme=tokyonight)
+## General Statistics
+![M1estere's Streak](https://github-readme-streak-stats.herokuapp.com/?user=M1estere&theme=tokyonight&hide_border=false&card_width=350)
+&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M1estere&layout=compact&langs_count=6&hide=ShaderLab,HLSL&theme=tokyonight)
 
 ## Tech Stack
 <p float="left">
