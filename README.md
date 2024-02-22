@@ -14,14 +14,14 @@
   <!--Game Development--> 
   <p>
     🎮
-    <img alt="unity" src="https://img.shields.io/badge/Unity-grey?style=flat-square&logo=unity&logoColor=white" />
-    <img alt="c#" src="https://img.shields.io/badge/CSharp-green?style=flat-square&logo=csharp&logoColor=white" /><br />
+    <img alt="unity" src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
+    <img alt="c#" src="https://img.shields.io/badge/CSharp-512BD4?style=flat-square&logo=csharp&logoColor=white" /><br />
   </p>
 
   <!--Mobile Development--> 
   <p>
     📱
-    <img alt="dart" src="https://img.shields.io/badge/Dart-blue?style=flat-square&logo=dart&logoColor=white" />
+    <img alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
     <img alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
     <img alt="android_studio" src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" /><br />
   </p>
