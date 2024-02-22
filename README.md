@@ -24,7 +24,9 @@
     <img alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
     <img alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
     <img alt="android_studio" src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" />
-    <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /><br />
+    <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+    <img alt="xamarin" src="https://img.shields.io/badge/Xamarin-3498DB?style=flat-square&logo=xamarin&logoColor=white" />
+    <img alt="xaml" src="https://img.shields.io/badge/XAML-0C54C2?style=flat-square&logo=xaml&logoColor=white" /><br />
   </p>
 
   <!--Web Development-->
