@@ -7,7 +7,7 @@
 - 💬 How to reach me: <a href="mailto:7156643@gmail.com">7156643@gmail.com</a>
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M1estere&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M1estere&layout=compact&exclude_repo=Racing_2Drift,Flipris)
 
 ## Tech Stack
 <p float="left">
