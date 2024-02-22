@@ -39,7 +39,7 @@
     🗂️
     <img alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
     <img alt="microsoft_sql_server" src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-    <img alt="postgres" src="https://img.shields.io/badge/PostGreS-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+    <img alt="postgres" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
     <img alt="firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
     <img alt="mongo" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   </p>
