@@ -3,7 +3,8 @@
 - 🎓 I'm studying at the technical university
 - 💡 Currently working on different games and mobile apps, also trying web development
 - 📱 I’m currently learning Flutter and Dart for mobile development
-- 🕹 I also develop computer games. Take a look here: &nbsp; <a href="https://thunder-fox-studios.itch.io/">![My Itch](https://img.shields.io/badge/Solo%20Games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)</a> <a href="https://thunder-fox-studios.itch.io/">![TFS Itch](https://img.shields.io/badge/TFS%20Games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)</a>
+- 🕹 I also develop computer games. Take a look here: &nbsp; <a href="https://m1estere.itch.io/">![My Itch](https://img.shields.io/badge/Solo%20Games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)</a> <a href="https://thunder-fox-studios.itch.io/">![TFS Itch](https://img.shields.io/badge/TFS%20Games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)</a>
+- 💬 How to reach me: <a href="mailto:7156643@gmail.com">7156643@gmail.com</a>
 
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M1estere&layout=compact)
