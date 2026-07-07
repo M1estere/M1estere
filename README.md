@@ -8,8 +8,6 @@
 
 ## General Statistics
 ![M1estere's Streak](https://github-readme-streak-stats.herokuapp.com/?user=M1estere&theme=tokyonight&hide_border=false&card_width=350)
-&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M1estere&layout=compact&langs_count=6&hide=ShaderLab,HLSL&theme=tokyonight)
 
 ## Tech Stack
 <p float="left">
